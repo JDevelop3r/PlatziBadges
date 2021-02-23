@@ -1,0 +1,9 @@
+.NotFoundPage {
+  background: url("../../images/stars.svg"), #1b1b25;
+  width: 100%;
+  min-height: calc(100vh - 62px);
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
